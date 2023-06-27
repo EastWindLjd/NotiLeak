@@ -1,5 +1,6 @@
 # Devils in Your Apps: Vulnerabilities and User Privacy Exposure in Mobile Notification Systems (DSN 2023)
 
+# Abstract
 Witnessing the blooming adoption of push notifications on mobile devices, this new message delivery paradigm has become pervasive in diverse applications.
 Accompanying with its broad adoption, the potential security risks and privacy exposure issues raise public concerns regarding its great social impacts.
 This paper conducts the first attempt to exploit the mobile notification ecosystem.  
@@ -13,11 +14,11 @@ Our study raises the urgent demand for better regulations of mobile notification
 
 Our analysis is mainly built on top of Flowdroid and MobSF. 
 
-# Outline
+# NotiLeak Outline
 
 We changed the `SourcesAndSinks.txt` file of Flowdroid to detect privacy leakage and the `privacy_apis.yaml` to detect the usage of notification platforms and sensitive APIs.
 
-# Setup
+## Setup
 In the top directory,
 
 ```bash
@@ -26,7 +27,7 @@ cd MobSF
 ./setup.sh
 ```
 
-# Run
+## Run
 
 ```bash
 # Flowdroid
