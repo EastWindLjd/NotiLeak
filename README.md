@@ -1,4 +1,4 @@
-# Devils in Your Apps: Vulnerabilities and User Privacy Exposure in Mobile Notification Systems (DSN 2023)
+# Devils in Your Apps: Vulnerabilities and User Privacy Exposure in Mobile Notification Systems (IEEE/IFIP DSN 2023)
 
 # Abstract
 Witnessing the blooming adoption of push notifications on mobile devices, this new message delivery paradigm has become pervasive in diverse applications.
