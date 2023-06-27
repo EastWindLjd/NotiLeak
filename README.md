@@ -12,10 +12,10 @@ To support our analysis, we  conduct  empirical studies on 12 most popular notif
 We discover: 1)  six platforms either provide ambiguous KEY naming rules or offer vulnerable messaging APIs; 2) privacy policy compliance implementations are either stagnated at the documentation stages (8 of 12 platforms) or never implemented in apps, resulting in billions of users  suffering from privacy exposure; and 3) some apps can stealthily monitor notification messages delivering to other apps, potentially incurring user privacy inference risks.
 Our study raises the urgent demand for better regulations of mobile notification deployment.
 
-Our analysis is mainly built on top of Flowdroid and MobSF. 
 
-# NotiLeak Outline
+# NotiLeak outline
 
+Our analysis tool NotiLeak is mainly built on top of Flowdroid. 
 We changed the `SourcesAndSinks.txt` file of Flowdroid to detect privacy leakage and the `privacy_apis.yaml` to detect the usage of notification platforms and sensitive APIs.
 
 ## Setup
