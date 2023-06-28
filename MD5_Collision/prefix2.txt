@@ -1,0 +1,14 @@
+{
+    "appkey":"35s89834fda",
+    "type":"broadcast", 
+    "payload":
+    {
+        "display_type": "notification", 
+        "body":
+        {
+            "title":"Test",
+            "text":"AdvertiseInf",
+        }
+    },
+    "description":"
+
