@@ -12,7 +12,7 @@ To support our analysis, we  conduct  empirical studies on 12 most popular notif
 We discover: 1)  six platforms either provide ambiguous KEY naming rules or offer vulnerable messaging APIs; 2) privacy policy compliance implementations are either stagnated at the documentation stages (8 of 12 platforms) or never implemented in apps, resulting in billions of users  suffering from privacy exposure; and 3) some apps can stealthily monitor notification messages delivering to other apps, potentially incurring user privacy inference risks.
 Our study raises the urgent demand for better regulations of mobile notification deployment.
 
-# Source Code and Samples 
+# Source code and Samples 
 Please find the codes and samples in https://github.com/EastWindLjd/NotiLeak
 
 # Notification Tampering with MD5 Collision Attack 
