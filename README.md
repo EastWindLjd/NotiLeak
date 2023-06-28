@@ -101,5 +101,5 @@ This can induce the user to grant the corresponding permission for monitoring no
 But, it can stealthily monitor the sensitive message from other apps for privacy inference.
 
 ## Responsible disclose to the Android group
-We have reported this issue to the Android group and wait for their responses. 
+We have reported this issue to the Android group and are waiting for their responses. 
 
